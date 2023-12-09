@@ -26,11 +26,11 @@ I am proficient in MERN Stack.
 
 📈 Current my Github Stats:
 
-[![GitHub Streak](https://api.githubtrends.io/user/svg/MahdiManik/langs?time_range=one_year&loc_metric=changed&compact=True&theme=synthwaves)](https://git.io/streak-stats)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=MahdiManik)](https://git.io/streak-stats)
 
 🚀 Current Github Status:
 
-https://api.githubtrends.io/user/svg/MahdiManik/langs?time_range=one_year&loc_metric=changed&compact=True&theme=synthwaves
+[![GitHub Trends SVG](https://api.githubtrends.io/user/svg/MahdiManik/langs?time_range=one_year&theme=bright_lights)](https://githubtrends.io)
 
 ## 🛠 My Tech stack and Skills
 
