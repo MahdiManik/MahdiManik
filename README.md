@@ -32,4 +32,4 @@ I am proficient in MERN Stack and full stack development.
 
 ## 🛠 My Tech stack and Skills
 
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,react,nodejs,express,mongodb,vite,tailwindcss,bootstrap,strpi,postgresql,nestjs,javascript,typescript,nextjs,reactjsgraphql,)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,react,nodejs,express,mongodb,vite,tailwindcss,bootstrap,strapi,postgresql,nestjs,javascript,typescript,nextjs,reactjsgraphql,)](https://skillicons.dev)
