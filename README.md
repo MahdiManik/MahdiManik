@@ -52,7 +52,7 @@ React, Node.js, MongoDB, TypeScript, Next.js, etc.
 
 ### 📫 Contact Me
 - Email: mahdimanik994@gmail.com
-- LinkedIn: [Your LinkedIn Profile](https://www.linkedin.com/in/codermahdi)
+- LinkedIn: [My LinkedIn Profile](https://www.linkedin.com/in/codermahdi)
 
 ---
 
